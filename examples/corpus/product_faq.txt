@@ -1,0 +1,5 @@
+The analytics dashboard refreshes every hour for standard accounts.
+
+Enterprise accounts can request fifteen-minute refresh intervals after a capacity review.
+
+CSV exports include visible filters, column selections, and the time range selected by the user.
